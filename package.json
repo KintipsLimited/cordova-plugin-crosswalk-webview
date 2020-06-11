@@ -43,7 +43,8 @@
   "author": "",
   "license": "Apache 2.0",
   "dependencies": {
-    "q": "^1.4.1"
+    "q": "^1.4.1",
+    "elementtree": "0.1.7"
   },
   "bugs": {
     "url": "https://crosswalk-project.org/jira"
